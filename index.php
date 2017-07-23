@@ -39,7 +39,7 @@
 <?php
 
 	// This is a really bad PHP code, made for the sake of proof of concept
-	// Please send you pull requests with better clean code
+	// Please send your pull requests with better clean code
 	require __DIR__ . '/SourceQuery/bootstrap.php';
 
 	use xPaw\SourceQuery\SourceQuery;
