@@ -15,7 +15,7 @@
 <body>
 	<center>
 	<h1>SteamScanList</h1>
-	<h3>Download me on <a href="https://github.com/AldemaroC/SteamScanList">GitHub!</a>
+	<h3>Download me on <a href="https://github.com/AldemaroC/SteamScanList">GitHub!</a></h3>
   <div class="wrapper">
   
   <div class="table">
